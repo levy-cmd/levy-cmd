@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning and Security informatique
 - 🌱 I’m currently learning Machine learning course and All Js frame
 - 💞️ I’m looking to collaborate on Security informatique and IA
-- 📫 How to reach me Mail : [levyan-noursaizonu@esp.sn] or [saizonouannour@esp.sn] or [....]
+- 📫 How to reach me Mail : [levyan-noursaizonu@esp.sn] or [saizonouannour@gmail.com] or [....]
 
 <!---
 levy-cmd/levy-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
